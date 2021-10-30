@@ -18,7 +18,7 @@ public class StringsUmwandeln {
         // 1. If the string is not an integer, NumberFormatException will be thrown.
         // 2. NAtürlich geht das mit den anderen primitiven Typen auch (Byte, Long, Float)
 
-        // Primitiven Wert in String umwandeln
+        // Primitiven Wert in String umwa
         String strI = Integer.toString(42);
         String strD = Double.toString(42.0);
         // NAtürlich durch Autounboxing auch korrespondierende Wrapper-Objekte einsetzen:
