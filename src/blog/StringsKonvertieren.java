@@ -1,7 +1,7 @@
 // Visit https://falconbyte.net
 package blog;
 
-public class DatentypenKonvertieren {
+public class StringsKonvertieren {
 
     public static void main(String[] args){
 
